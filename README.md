@@ -63,7 +63,7 @@ Let's connect and create something impactful together!
               </a>
             </td>
             <td style="padding: 8px;">
-              <a href="www.linkedin.com/in/muhamad-rafelian-akbar-asura-9797683a5">
+              <a href="https://www.linkedin.com/in/muhamad-rafelian-akbar-asura-9797683a5/">
                 <img src="https://img.shields.io/badge/💼_LINKEDIN-00D4AA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=00D4AA" alt="LinkedIn"/>
               </a>
             </td>
