@@ -1,31 +1,25 @@
-<h1 align="center">✨ WELCOME TO ✨</h1>
+<h1 align="center"> WELCOME TO </h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=RafelianAsura" alt="Name Header"/>
   <br/>
-  <img src="./14.gif" alt="Header Animation" width="100%" style="max-width: 900px;"/>
+  <img src="./100.gif" alt="Header Animation" width="100%" style="max-width: 900px;"/>
   <br/>
   
 ---
 
-## 🚀 About Me
+##  About Me
 Hi there! I'm Muhamad Rafelian Akbar Asura — also known as RafelianAsura — a guy with a growing interest in Cybersecurity and Software Engineering.
 
 I enjoy building responsive, user-friendly websites and solving tech challenges through code. My current focus is on front-end development using HTML, CSS, and JavaScript, while actively learning backend basics and secure coding practices.
 
-🔧 Skills: HTML (Basic), CSS (Basic)
-🔐 Learning: Web Security, Ethical Hacking, CyberSecurity
-🎮 Hobbies: Gaming, Sports, Riding
+ Skills: HTML (Basic), CSS (Basic)
+ Learning: Web Security, Ethical Hacking, CyberSecurity
+ Hobbies: Gaming, Sports, Riding
 
 Let's connect and create something impactful together!
 
 ---
-
-
-<!-- Snake Animation - TOP ONLY -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</div>
 
 <!-- Profile Counters with Neon Effect -->
 <div align="center">
@@ -51,7 +45,7 @@ Let's connect and create something impactful together!
     <tr>
       <td style="padding: 20px; vertical-align: middle;">
         <!-- Party Animation GIF -->
-        <img src="./1.gif" alt="Party Animation" width="200"/>
+        <img src="./12.gif" alt="Party Animation" width="200"/>
       </td>
       <td style="padding: 20px; vertical-align: middle;">
         <!-- Social Links Table -->
@@ -59,26 +53,26 @@ Let's connect and create something impactful together!
           <tr>
             <td style="padding: 8px;">
               <a href="mailto:rafelianasura@gmail.com">
-                <img src="https://img.shields.io/badge/📧_EMAIL-FF6EC7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=FF6EC7" alt="Email"/>
+                <img src="https://img.shields.io/badge/📧_EMAIL-FF6EC7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=FBF6F6" alt="Email"/>
               </a>
             </td>
             <td style="padding: 8px;">
               <a href="https://www.linkedin.com/in/muhamad-rafelian-akbar-asura-9797683a5/">
-                <img src="https://img.shields.io/badge/💼_LINKEDIN-00D4AA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=00D4AA" alt="LinkedIn"/>
+                <img src="https://img.shields.io/badge/💼_LINKEDIN-00D4AA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=FBF6F6" alt="LinkedIn"/>
               </a>
             </td>
           </tr>
           <tr>
             <td style="padding: 8px;">
               <a href="https://www.instagram.com/rafelianasura/">
-                <img src="https://img.shields.io/badge/📸_INSTAGRAM-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117&color=DC143C" alt="Instagram"/>
+                <img src="https://img.shields.io/badge/📸_INSTAGRAM-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117&color=FBF6F6" alt="Instagram"/>
               </a>
             </td>
           </tr>
           <tr>
             <td colspan="2" style="padding: 8px; text-align: center;">
               <a href="tel:+6288293208245">
-                <img src="https://img.shields.io/badge/📱_PHONE_+62_813_9823_7019-32CD32?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117&color=32CD32" alt="Phone"/>
+                <img src="https://img.shields.io/badge/📱_PHONE_+62_813_9823_7019-32CD32?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117&color=FBF6F6" alt="Phone"/>
               </a>
             </td>
           </tr>
